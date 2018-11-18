@@ -5,12 +5,12 @@ return [
     /*
      * Laravel-admin name.
      */
-    'name' => '武汉孕妈圈',
+    'name' => '',
 
     /*
      * Logo in admin panel header.
      */
-    'logo' => '<span class="fa fa-trophy"></span> 武汉孕妈圈',
+    'logo' => '<span class="fa fa-trophy"></span> ',
 
     /*
      * Mini-logo in admin panel header.
